@@ -1,0 +1,547 @@
+@media(max-width:1306px){
+    .header-view-text h1{
+        font-size: 2em;
+        }
+        .faqs-main h1{
+            line-height: 25px;
+            font-size: 24px;        
+        }
+    .faqs-main p{
+        line-height: 20px;
+        
+    }
+}
+@media(max-width:1190px){
+    .header-view-text h1{
+        font-size: 1.7em;
+        }
+    .header-view-text h1{
+            font-size: 1.5em;
+            }
+    .title-1{
+        max-width: 40%;
+        height: 79px;
+        margin: 3em 0 0 10em;
+              } 
+
+    .title-1 p{
+        font-size: 22px;
+    }
+    .title-1-div{
+        font-size: 1.3em;
+              }
+              .box{
+                width: 250px;
+                height: 240px;  
+            }
+            .box h4{
+                font-size: 18px;  
+                margin: 20px 0 0 0;
+                }
+                .box p{  
+                    font-size: 14px;
+                    margin-top: 10px;
+                    }
+        .box-img-1,.box-img-2,.box-img-3,.box-img-4{
+            margin-top: 15px;
+        }
+        .main-part-3{
+            max-width: 100%;
+            gap: 30px;
+        }
+        .mod-1{
+            max-width: 350px;
+            padding-top: 100px;
+        }
+        .mod-1-child h3{
+            font-size: 20px;
+        }
+        .mod-1-child p{
+            font-size: 14px;
+        }
+        .main-part-4{
+            gap: 30px;
+        }
+        .testimonial-1{
+            width: 380px;
+            height: 230px;
+            padding: 10px;
+         }
+        .image-in-box{
+           width: 200px;
+           height: 200px ;
+        }
+        .heading-bottom{
+            height: 120px;
+         }
+         .bin{
+            width: 200px;
+            height: 100px;
+             }
+             .bin p{
+                font-size: 14px;
+             }
+             .bin img{
+                width: 20px;
+                height: 20px;
+             }
+             .faqs{
+                display: flex;
+                justify-content: space-between;
+                gap: 25px;
+            }
+            .faqs-main{
+                max-width: 40%;
+                margin-bottom: 50px;
+            }
+            .faqs-main h1{
+                line-height: 25px;
+                font-size: 20px;        
+            }
+             .faqs-main p{
+                line-height: 25px;
+                font-size: 14px;        
+            }
+            .whole-footer{
+                max-width: 100%;
+                display: flex;
+                justify-content: center;
+                gap: 15em;
+              }
+}
+
+
+@media(max-width:1000px){
+    .main-part-3{
+        max-width: 100%;
+        gap: 30px;
+    }
+    .mod-1{
+        max-width: 350px;
+        padding-top: 100px;
+    }
+    .mod-1-child h3{
+        font-size: 20px;
+    }
+    .mod-1-child p{
+        font-size: 14px;
+    }
+    .testimonial-1{
+        width: 350px;
+        height: 230px;
+        padding: 10px;
+     }
+     .bins-container{
+         gap: 10px;
+     }
+     .heading-bottom{
+        height: 95px;
+     }
+     .heading-bottom p{
+        font-size: 20px;
+     }
+     .bin{
+    width: 200px;
+    height: 130px;
+     }
+     .bin p{
+        font-size: 14px;
+     }
+     .bin img{
+        width: 20px;
+        height: 20px;
+     }
+
+     .faqs{
+        display: flex;
+        justify-content: space-between;
+        gap: 15px;
+    }
+    .faqs-main{
+        max-width: 40%;
+        margin-bottom: 50px;
+    }
+     .faqs-main p{
+        line-height: 25px;
+        font-size: 14px;        
+    }
+    .whole-footer{
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 12em;
+      }
+
+}
+
+@media(max-width:875px){
+    .header-view img{
+        position: absolute;
+        top: 15%;
+        left: -10%;
+    }
+    .header-view{
+        max-width: 100%;
+     }
+     .header-view-text{
+        margin-left: 15em;
+        margin-top: 3em;
+    }
+    .header-view-text h1{
+        font-size: 1.3em;
+        }
+        .header-view-text p{
+            font-size: 1em; 
+            }
+        .header-view-text button{
+            margin-top: 1.2em;
+            width: 10em;
+            height: 3em;
+            font-size: 0.7em;
+                }
+                .title-1{
+                    max-width: 40%;
+                    height: 79px;
+                    margin: 3em 0 0 6em;
+                          } 
+            
+                .title-1 p{
+                    font-size: 18px;
+                }
+                .title-1-div{
+                    font-size: 1em;
+                          }
+        .main-part-2{
+                    display: grid;
+                    grid-template-columns: 230px 230px ;
+                    justify-content: center;
+                    gap: 30px;
+                    margin: 70px 0 40px 0;
+                }
+        /* .image-in-box{
+            margin-left: 200px;
+        } */
+        .main-part-2-1{
+            gap: 20px;
+        }
+        .box{
+            width: 200px;
+            height: 240px;  
+        }
+        .box h4{
+            font-size: 18px;  
+            margin: 20px 0 0 0;
+            }
+            .box p{  
+                font-size: 14px;
+                margin-top: 10px;
+                }
+    .box-img-1,.box-img-2,.box-img-3,.box-img-4{
+        margin-top: 15px;
+    }
+    .main-part-3{
+        max-width: 100%;
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .mod-1{
+        max-width: 350px;
+        padding-top: 50px;
+    }
+    .mod-1-child h3{
+        font-size: 20px;
+        text-align: center;
+    }
+    .mod-1-child p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .btn{
+        font-size: 16px;
+        font-family: 'AirbnbCerealMedium';  
+        justify-content: center;
+    }
+    .btn-center{
+        display: flex;
+        justify-content: center;
+    }
+    .main-part-4{
+        margin-top: 100px;
+        gap: 20px;
+    }
+    .testimonial-1{
+        width: 210px;
+        height: 310px;
+        padding: 10px;
+     }
+    .heading-bottom p{
+       font-size: 16px;
+    }
+    .bin{
+   width: 220px;
+   height: 100px;
+    }
+    .main-part-6{
+        margin-top: 4em;
+       display: flex;
+       flex-wrap: wrap;
+        gap: 20px;
+    }
+   .faqs-main{
+       max-width: 75%;
+   }
+   .faq-house{
+    margin: 35px 0 0 0px;
+    position: relative;
+    width: 420px;
+    height: 350px;
+  }
+  .faq-house .img3{
+    position: absolute;
+    top: 14%;
+    right: 12%;
+  }
+
+footer{
+    width: 100%;
+    height: 350px;
+    background-color: #322c4e;
+  }
+   .whole-footer{
+       max-width: 100%;
+       display: block;
+       justify-content: center;
+       gap: 5em;
+       text-align: center;
+     }
+    .footer-p-2{
+        display: block;
+        cursor: pointer;
+        text-align: center;
+        justify-content: center;
+        gap: 30px;
+        }
+}
+
+@media(max-width:610px){
+    .top-bar{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0%;
+        justify-content:space-between;
+        height: 6.5em;
+    }
+    .top-bar p{
+        font-size: 1em;
+    }
+    
+
+    .header-view img{
+        position: absolute;
+        top: 15%;
+        left: -40%;
+    }
+    .header-view{
+        max-width: 100%;
+     }
+     .header-view-text{
+        margin-left: 10em;
+        margin-top: 3em;
+    }
+    .header-view-text h1{
+        font-size: 1.2em;
+        }
+        .header-view-text p{
+            font-size: 0.7em; 
+            }
+            .main-heading{
+                display: none;
+            }
+            .main-heading-1{
+                display: block;
+                max-width: 100%;
+                justify-content: center;
+            }
+            .title-1{
+                max-width: 50%;
+                height: 79px;
+                align-items: center;
+                justify-content: center;
+                
+                      } 
+            .title-1 p{
+                font-size: 18px;
+                text-align: center;
+            }
+            .title-1-div{
+                font-size: 1em;
+                max-width: 35%;
+                 margin:5em 0 1em 0; 
+                padding:0 0.5em 0 0.5em;
+                      }
+                      .title-1-div p{
+                        font-size: 0.5em;
+                    }
+
+                    .main-part-2{
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                        align-items: center;
+                        /* margin: 70px 0 40px 0; */
+                    }
+                    .box{
+                        width: 250px;
+                        height: 240px;  
+                    }
+                    .box h4{
+                        font-size: 18px;  
+                        margin: 20px 0 0 0;
+                        }
+                        .box p{  
+                            font-size: 14px;
+                            margin-top: 10px;
+                            }
+                .box-img-1,.box-img-2,.box-img-3,.box-img-4{
+                    margin-top: 15px;
+                }                        
+
+ .main-part-2-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+.main-part-3{
+    max-width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.mod-1{
+    max-width: 300px;
+    padding-top: 50px;
+    text-align: center;
+}
+.mod-1-child h3{
+    font-size: 18px;
+    text-align: center;
+}
+.mod-1-child p{
+    font-size: 12px;
+    text-align: center;
+}
+.btn{
+    font-size: 13px;
+    width: 160px;
+    height: 40px;
+}
+.mod-2{
+    width: 300px;
+    height: 400px;
+ }
+ .background-circle{
+    max-width: 300px;
+    height: 300px;
+    background-color: #5ccaab;
+    border-radius: 50%;
+    position: relative;
+}
+.front-board{
+    width: 220px;
+    height: 370px;
+    background-color: #D7FDF4;
+    position: absolute;
+    box-shadow:  0px 0px 10px rgb(184, 182, 182);
+    left: 13.5%;
+    border-radius: 8px;
+}
+.front-board .industry{
+    width: 220px;
+    height: 170px;
+}
+.front-board .top-text{
+    margin-left: 5px;
+ }
+ .top-text h5{
+      font-size: 12px;
+ }
+ .top-text h4{
+     font-size: 14px;
+ }
+ .top-text span{
+     font-size: 12px;
+ }
+ 
+ pre{
+     font-size: 12px;
+ }
+ .badge{
+    width: 100px;
+    height: 22px;
+    font-size: 10px;
+    padding-top: 13px;
+}
+
+
+.main-part-4{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    gap: 20px;
+}
+.testimonial-1{
+    width: 230px;
+    height: 310px;
+    padding: 10px;
+ }
+
+ .heading-bottom p{
+    font-size: 14px;
+ }
+ .bin{
+width: 220px;
+height: 100px;
+ }
+ .main-part-6{
+     margin-top: 4em;
+    display: flex;
+    flex-wrap: wrap;
+     gap: 20px;
+ }
+.faqs-main{
+    max-width: 80%;
+}
+.faq-house{
+ margin: 35px 0 0 0px;
+ position: relative;
+ width: 300px;
+ height: 270px;
+}
+.faq-house .img1{
+    width: 100px;
+    height: 90;
+   top: 10%;
+   left: 13%;
+  }
+
+.faq-house .img2{
+    width: 100px;
+    height: 90;
+    top: 3%;
+    right: 38%;
+    
+  }
+.faq-house .img3{
+    width: 100px;
+    height: 90;
+    top: 12%;
+    right: 15%;
+}
+}
