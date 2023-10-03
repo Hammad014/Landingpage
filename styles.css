@@ -14,7 +14,7 @@ header{
 .top-bar{
     display: flex;
     justify-content: space-between;
-    max-width: 85.1em;
+    max-width: 85.3em;
     margin: auto;
     height: 3.75em;
     padding: 0 7em 0 7em;
@@ -36,15 +36,17 @@ header{
 }
 
 .background{
+    max-width: 100%;
    background: linear-gradient(#E3E3E3,#D7FDF4);
+   height: 22.3em;
+   box-shadow: 0px 5px 10px rgba(0,0,0,0.5);
+   
 }
 
 .header-view{
-   max-width: 85.1em;
+   max-width: 85.3em;
    margin: auto;
-   height: 22.3em;
    display: flex;
-   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
    position: relative;
 }
 .header-view img{
@@ -398,6 +400,13 @@ box-shadow:  0px 0px 10px rgb(184, 182, 182);
     display: flex;
     justify-content: space-between;
     gap: 30px;
+}
+.faq-details{
+    
+    color:#322C4E;
+    line-height: 18px;
+    font-size: 16px;
+    font-family: 'AirbnbCerealMedium'; 
 }
 .faqs-main h1{
     line-height: 5px;
